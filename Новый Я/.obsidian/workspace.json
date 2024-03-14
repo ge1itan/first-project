@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "5c3a331842fed4d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "80524824527edf8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30c43d8643c34fdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шпаргалка. Базовые команды в консоли.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69ca25693ddace15",
+    "type": "split",
+    "children": [
+      {
+        "id": "892ccbe55335a153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "193609114e2cd810",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06eebd098d7601cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6a1d39d1dad6631",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6ab973c2922d3854",
+    "type": "split",
+    "children": [
+      {
+        "id": "f10e3e76e75e3a9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50176d0cc3c4fcb6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Шпаргалка. Базовые команды в консоли.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54c78b5b08ffb122",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Шпаргалка. Базовые команды в консоли.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1315f8a5327fae0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b850fe32f0b44162",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Шпаргалка. Базовые команды в консоли.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "30c43d8643c34fdd",
+  "lastOpenFiles": [
+    "9. Файл README.md.md",
+    "8. Синхронизируем локальный и удалённый репозитории.md",
+    "7. Связываем локальный и удалённый репозитории.md",
+    "6. Привязываем SSH-ключ к GitHub.md",
+    "5. Что такое SSH. Генерируем SSH-ключ.md",
+    "4. Просматриваем историю коммитов.md",
+    "3. Делаем первый коммит.md",
+    "2. Добавляем файлы в репозиторий.md",
+    "1. Инициализация репозитория.md",
+    "Шпаргалка. Базовые команды в консоли.md",
+    "Welcome.md"
+  ]
+}
